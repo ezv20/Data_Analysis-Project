@@ -1,0 +1,3 @@
+[submodule "Mean_Variance_Standard_Deviation_Calculator"]
+	path = Mean_Variance_Standard_Deviation_Calculator
+	url = https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator
